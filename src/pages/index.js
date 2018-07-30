@@ -13,5 +13,8 @@ export default () => (
         <div>
             <Link to="/page-3">Link 3</Link>
         </div>
+        <div>
+            <Link to="/counter/">Counter</Link>
+        </div>
     </div>
 )
